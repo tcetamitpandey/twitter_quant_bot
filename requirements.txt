@@ -1,0 +1,6 @@
+pandas
+numpy
+matplotlib
+selenium
+webdriver-manager
+scikit-learn
